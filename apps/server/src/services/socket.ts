@@ -4,17 +4,17 @@ import prismaClient from "./prisma";
 import { produceMessage } from "./kafka";
 
 const pub = new Redis({
-    host:'',
-    port:0,
-    username:'',
-    password:'',
+    host:'enter your redis server host',
+    port:enter required port,
+    username:'enter your redis server cloud service if you using username',
+    password:'enter your redis server password',
 
 })
 const sub = new Redis({
-    host:'',
-    port:0,
-    username:'',
-    password:'',
+    host:'enter your redis server host',
+    port:enter required port,
+    username:'enter your redis server cloud service if you using username',
+    password:'enter your redis server password',
 })
 
 
