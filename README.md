@@ -14,7 +14,8 @@
 `localhost:3000 to use the app`
 
 # Tech Stack used in this chatApp:
-`expressjs`
+`Nodejs`
+`WeSocket`
 `nextjs`
 `redis`
 
