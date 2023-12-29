@@ -3,6 +3,8 @@
 # steps to run the repo
 `clone the repo`
 
+`setup your redis host and fill all the required details in  socket.ts file in app folder`
+
 `yarn init`
 
 `install all the required dependencies`
