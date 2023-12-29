@@ -9,3 +9,12 @@
 
 `to run the repo use command: yarn run dev`
 
+
+# Tech Stack used in this chatApp:
+`expressjs`
+
+`nextjs`
+
+`redis`
+
+
