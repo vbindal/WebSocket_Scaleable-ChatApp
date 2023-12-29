@@ -3,15 +3,15 @@ import {Redis} from "ioredis"
 
 const pub = new Redis({
     host:'',
-    port:22269,
-    username:'default',
+    port:0,
+    username:'',
     password:'',
 
 })
 const sub = new Redis({
     host:'',
-    port:22269,
-    username:'default',
+    port:0,
+    username:'',
     password:'',
 })
 
