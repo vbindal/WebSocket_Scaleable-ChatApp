@@ -4,13 +4,13 @@ import path from "path";
 import prismaClient from "./prisma";
 
 const kafka = new Kafka({
-    brokers:[""],
+    brokers:["enter your kafka broker link"],
     ssl:{
         ca:[fs.readFileSync(path.resolve("./ca.pem"),'utf-8')]
     },
     sasl:{
-        username:"",
-        password:"",
+        username:"enter required username",
+        password:"enter required password",
         mechanism:"plain"
     }
 })
