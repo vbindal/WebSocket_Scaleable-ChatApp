@@ -15,7 +15,7 @@
 
 # Tech Stack used in this chatApp:
 `Nodejs`
-`WeSocket`
+`WebSocket`
 `nextjs`
 `redis`
 
