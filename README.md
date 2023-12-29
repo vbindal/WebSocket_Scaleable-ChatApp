@@ -7,7 +7,7 @@
 
 `install all the required dependencies`
 
-`to run the repo use command: yarn run dev`
+`To run the repo use command: yarn run dev`
 
 
 # Tech Stack used in this chatApp:
