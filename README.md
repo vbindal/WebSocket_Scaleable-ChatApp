@@ -11,6 +11,7 @@
 
 `To run the repo use command: yarn run dev`
 
+`localhost:3000 to use the app`
 
 # Tech Stack used in this chatApp:
 `expressjs`
