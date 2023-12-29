@@ -4,17 +4,17 @@ import prismaClient from "./prisma";
 import { produceMessage } from "./kafka";
 
 const pub = new Redis({
-    host:'redis-511bdec-vbindal027-8732.a.aivencloud.com',
-    port:22269,
-    username:'default',
-    password:'AVNS_kwgkFFZIVg6UlDx4z7d',
+    host:'',
+    port:0,
+    username:'',
+    password:'',
 
 })
 const sub = new Redis({
-    host:'redis-511bdec-vbindal027-8732.a.aivencloud.com',
-    port:22269,
-    username:'default',
-    password:'AVNS_kwgkFFZIVg6UlDx4z7d',
+    host:'',
+    port:0,
+    username:'',
+    password:'',
 })
 
 
