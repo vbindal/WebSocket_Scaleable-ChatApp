@@ -12,9 +12,7 @@
 
 # Tech Stack used in this chatApp:
 `expressjs`
-
 `nextjs`
-
 `redis`
 
 
