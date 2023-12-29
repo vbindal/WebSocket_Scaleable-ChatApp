@@ -2,17 +2,17 @@ import { Server } from "socket.io";
 import {Redis} from "ioredis"
 
 const pub = new Redis({
-    host:'redis-511bdec-vbindal027-8732.a.aivencloud.com',
+    host:'',
     port:22269,
     username:'default',
-    password:'AVNS_kwgkFFZIVg6UlDx4z7d',
+    password:'',
 
 })
 const sub = new Redis({
-    host:'redis-511bdec-vbindal027-8732.a.aivencloud.com',
+    host:'',
     port:22269,
     username:'default',
-    password:'AVNS_kwgkFFZIVg6UlDx4z7d',
+    password:'',
 })
 
 
